@@ -1,3 +1,5 @@
+# Create a method that takes in two parameters. ransom_note should be constructed with the letters inside magazine. If it cannot return false.
+
 ransom_note = "aa"
 magazine = "aab"
 
